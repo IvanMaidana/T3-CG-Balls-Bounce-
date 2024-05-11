@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1710341357 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1632060799 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1710341387 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1589217858 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1589214882 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1705326017 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1589218349 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1714179271 source:d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 d:\universidade 2024_01\computação gráfica\cg\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 d:\universidade 2024_01\computação gráfica\cg\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 d:\universidade 2024_01\computação gráfica\cg\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1715353772 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\vector2.h
+
+1715457126 source:d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Projectile.h"
+	"Line.h"
+	"Cannon.h"
+	"Square.h"
+	"Frames.h"
+
+1589214882 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1715187865 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\projectile.h
+	"Vector2.h"
+	"gl_canvas2d.h"
+
+1714783850 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\line.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Projectile.h"
+	<math.h>
+
+1715455568 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\cannon.h
+	"gl_canvas2d.h"
+	"Vector2.h"
+
+1715456706 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\square.h
+	<string>
+	"gl_canvas2d.h"
+	"Vector2.h"
+	"Line.h"
+
+1715354572 d:\universidade 2024_01\computação gráfica\cg\demos\trab2ivan\src\frames.h
+	<stdio.h>
+	<time.h>
+
